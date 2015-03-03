@@ -9,6 +9,6 @@
         }
       };
       
-      shuffle($('.cards').length);
       var button = document.getElementById("button");
-        $('.button').on("click", shuffle);
+         m = $('.cards').length);
+         $('.button').on("click", function(){shuffle(m)});
