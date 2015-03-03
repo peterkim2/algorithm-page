@@ -1,0 +1,25 @@
+body {
+  background-color: green;
+}
+.h1 {
+  text-align: center;
+  font-size: 35px;
+}
+img {
+  width: 50px;
+}
+.club {
+  display:inline-table;
+}
+.diamond {
+  display:inline-table;
+}
+.heart {
+  display:inline-table;
+}
+.spade {
+  display:inline-table;
+}
+.buttonHolder {
+  text-align: center;
+}
